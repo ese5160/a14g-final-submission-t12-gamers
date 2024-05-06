@@ -40,7 +40,14 @@ If any open source code was used in your project, it must be referenced and used
 ■	Consider downloading your PCBA source and manufacturing files to keep after you leave UPenn. Your Altium access will expire after this semester.
 
 ## 3. Hardware & Software Requirements
-Our initial design include an IMU,a heartrate sensor, a motor, a user push button and an OLED. We finished most of the hardware design implementation except the OLED. We successfully drive on the sensors, and also finish the data analysis part. What;s more, we also create a good user interface to demo our design.
+Our goal is to make smart Iot grips for gaming, the main function of the grips is to interact by recognizing its own state and feeding back to the computer via Wi-Fi.
+
+In our initial design, it includes an IMU,a heartrate sensor, a motor, a user push button and an OLED. We finished most of the hardware design implementation except the OLED. 
 
 The reason that we do not finish all our hardware design is that our OLED screen is not arrived with other devices. It may lost on the way, and it is a pity that we didn't have enough time to reorder one.
+
+We successfully drive all the sensors, and also finished the data analysis part. We successfully use the IMU data to calculate the pitch roll information of the grid. We also successfully to design a low pass filter to get the correct heartrate data that we want. What's more, we also create a good user interface to demo our design. The user button could interact with the remote website and the website would drive the button when some unexpected state happens, such as if we roll the grid too much.
+
+
+
 ## 4. Project Photos & Screenshots
