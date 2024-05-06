@@ -30,9 +30,11 @@
 * Takeaways from ESE5160
 ○	What did you learn in ESE5160 through the lectures, assignments, and this course-long prototyping project?
 * Project Links
-○	Provide a URL to your Node-RED instance for our review (make sure it’s running on your Azure instance!)
-○	Include a link to your A12G code repository
-Do NOT put your code in the A14G assignment’s repository. 
+[Provide a URL to your Node-RED instance for our review (make sure it’s running on your Azure instance!)](http://172.178.40.45:1880/ui/)
+
+Include a link to your A12G code repository:
+https://github.com/ese5160/a12g-firmware-drivers-t12-gamers.git
+
 The A12G repository must include your final embedded C firmware codebases and Node-RED dashboard code.
 Your code will be evaluated for its driver implementations, application code, OTAU approach, comments, and cleanliness.
 If any open source code was used in your project, it must be referenced and used according to its licensing information. If you heavily leveraged tools, websites, or the expertise of others, this must be noted in the Github Readme.
