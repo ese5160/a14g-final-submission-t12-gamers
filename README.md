@@ -82,9 +82,4 @@ We successfully drive all the sensors, and also finished the data analysis part.
 
 
 ## 4. Project Photos & Screenshots
-![image](https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163001.jpg)
-![image](https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163019.jpg)
-![image](https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163028.jpg)
-![image](https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163035.jpg)
-![image](https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163042.jpg)
-        
+<img src="https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163001.jpg" width="15%"></img> <img src="https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163019.jpg" width="15%"></img> <img src="https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163028.jpg" width="15%"></img> <img src="https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163035.jpg" width="15%"></img> <img src="https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/Weixin%20Image_20240506163042.jpg" width="15%"></img>
