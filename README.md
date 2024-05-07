@@ -27,7 +27,7 @@ We design a software system consisting of 3 parts:
 * A Heat rate sensor is used to detect the user information when the put their fingers on it, it could make the grid have a wider range of using, for example, we could use heart rate to detect if the person is sleepy or tired.
 * A push button is design to interacte with the remote control, and the remote website could give a feedback by trigering the virbration motor. 
 
-![image](d:\Penn\2024Spring\ESE 5160\HW\A00\a00g-devices-designs-diagrams-xiwen-lai-ruijun-zhang\simple.png)
+![image](https://github.com/ese5160/a14g-final-submission-t12-gamers/blob/main/img/detail.png)
 
 2. Include sensors, actuators, and other critical components.
 * IMU:3-axis accelerometer(LIS2DH12);
