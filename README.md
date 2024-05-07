@@ -43,15 +43,18 @@ We design a software system consisting of 3 parts:
 Where did you face difficulties? This could be in firmware, hardware, software, integration, etc.
 When we try our buck convert, we find that one of the wire connect to the wrong pin which make the whole converter not working at all.
 
-How did you overcome these challenges?
+How did you overcome these challenges?:
+
 To address this, we detached the original pins and reattached them correctly using a new wire. During this process, we accidentally broke one of the pins. Lacking sufficient spare components and faced with this setback, we decided to purchase the necessary equipment ourselves from DigiKey's website. We expedited the shipment to our school, which enabled us to successfully resolve the issue and get this part of the circuit working.
 
 * Prototype Learnings
 What lessons did you learn by building and testing this prototype?
-Be sure to double-check that the schematic is correct or it can cause a lot of problems.
+
+Ans: Be sure to double-check that the schematic is correct or it can cause a lot of problems.
 
 If you had to build this device again, what would you do differently?
-We would modify our buck boost circuit to make it more powerful, so that we can add more sensors and we do not need to use the additional wires on the PCB.
+
+Ans: We would modify our buck boost circuit to make it more powerful, so that we can add more sensors and we do not need to use the additional wires on the PCB.
 
 * Next Steps
 What steps are needed to finish or improve this project?
