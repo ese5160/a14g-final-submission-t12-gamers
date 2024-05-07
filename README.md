@@ -12,13 +12,16 @@ Google drive Link:
 https://drive.google.com/file/d/1bUj7KIa1Va4nG0Es5bZDXANIMS4BUluH/view?usp=sharing
 
 ## 2. Project Summary
-* Device Description
+* Device Description:
+
 In the beginning, we had an anomaly in the data from our sensor heartbeat sensor, although the sensor was configured correctly, his data was strange. Later we realized it was due to the lack of filtering part in our code, we found a similar project by searching, our filtering part referred to the design method of their open source project, finally we got the filter we wanted and got the data we wanted.
 
-* Inspiration
+* Inspiration:
+
 We firmly believe that developing this project is an enriching and engaging endeavor. Throughout this process, we have acquired a substantial amount of new knowledge, which has further inspired and motivated us to bring this project to completion.
 
-* Device Functionality
+* Device Functionality:
+
 1. Explain how your Internet-connected device is designed
 The hardware project involves creating smart IoT grips designed for interaction and communication with a computer/phone via Wi-Fi. The grips incorporate a 3-axis accelerometer(LIS2DH12) as the primary sensor, capable of recognizing displacement and attitude changes. This sensor feeds data to the MCU (SAMW25) for processing.
 
