@@ -7,6 +7,8 @@
     * Github Repository URL: https://github.com/ese5160/a14g-final-submission-t12-gamers.git
     * Description of test hardware: (development boards, sensors, actuators, laptop + OS, etc) 
 
+Website:https://ese5160.github.io/a14g-final-submission-t12-gamers/
+
 ## 1. Video Presentation
 Google drive Link:
 https://drive.google.com/file/d/1bUj7KIa1Va4nG0Es5bZDXANIMS4BUluH/view?usp=sharing
